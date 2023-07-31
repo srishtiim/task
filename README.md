@@ -149,7 +149,7 @@
 </div>
 
 <div class='task' draggable='true'>
-<div class='task__tags'><span class='task__tag task__tag--illustration'>Illustration</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
+<div class='task__tags'><span class='task__tag task__tag--illustration'>CS Projects</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
 <p>Send Advert illustrations over to production company.</p>
 <div class='task__stats'>
 <span><time datetime="2021-11-24T20:00:00"><i class="fas fa-flag"></i>Nov 24</time></span>
@@ -160,7 +160,7 @@
 </div>
 
 <div class='task' draggable='true'>
-<div class='task__tags'><span class='task__tag task__tag--illustration'>Illustration</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
+<div class='task__tags'><span class='task__tag task__tag--illustration'>CS Projects</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
 <p>Dawn wants to move the text 3px to the right.</p>
 <div class='task__stats'>
 <span><time datetime="2021-11-24T20:00:00"><i class="fas fa-flag"></i>Nov 24</time></span>
@@ -171,7 +171,7 @@
 </div>
 
 <div class='task' draggable='true'>
-<div class='task__tags'><span class='task__tag task__tag--copyright'>Copywriting</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
+<div class='task__tags'><span class='task__tag task__tag--copyright'>CS Projects</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
 <p>Amend the contract details.</p>
 <div class='task__stats'>
 <span><time datetime="2021-11-24T20:00:00"><i class="fas fa-flag"></i>Nov 24</time></span>
