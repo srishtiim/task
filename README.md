@@ -3,10 +3,11 @@
 <html>
 <head>
    <link rel="stylesheet" href="task.css" >
+</head>
   
 
- <body style="background-color:#bdcebe;"
-</head>
+ <body>
+
 
 <div class='app'>
 <main class='project'>
