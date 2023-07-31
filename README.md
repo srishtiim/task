@@ -150,7 +150,7 @@
 
 <div class='task' draggable='true'>
 <div class='task__tags'><span class='task__tag task__tag--illustration'>CS Projects</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
-<p>Send Advert illustrations over to production company.</p>
+<p>2 HTML pages- About Me and Sustainability</p>
 <div class='task__stats'>
 <span><time datetime="2021-11-24T20:00:00"><i class="fas fa-flag"></i>Nov 24</time></span>
 <span><i class="fas fa-comment"></i>12</span>
