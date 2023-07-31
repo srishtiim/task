@@ -77,7 +77,7 @@
 
 <div class='task' draggable='true'>
 <div class='task__tags'><span class='task__tag task__tag--illustration'>Reading Books</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
-<p>Create and generate the custom SVG illustrations.</p>
+<p>Completed reading Beyond Good And Evil</p>
 <div class='task__stats'>
 <span><time datetime="2021-11-24T20:00:00"><i class="fas fa-flag"></i>Nov 24</time></span>
 <span><i class="fas fa-comment"></i>8</span>
