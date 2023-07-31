@@ -114,7 +114,7 @@
 </div>
 
 <div class='task' draggable='true'>
-<div class='task__tags'><span class='task__tag task__tag--copyright'>Copywriting</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
+<div class='task__tags'><span class='task__tag task__tag--copyright'>Classwork</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
 <p>Check the company we copied doesn't think we copied them.</p>
 <div class='task__stats'>
 <span><time datetime="2021-11-24T20:00:00"><i class="fas fa-flag"></i>Nov 24</time></span>
@@ -124,7 +124,7 @@
 </div>
 </div>
 <div class='task' draggable='true'>
-<div class='task__tags'><span class='task__tag task__tag--design'>UI Design</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
+<div class='task__tags'><span class='task__tag task__tag--design'>Classwork</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
 <p>Design the about page.</p>
 <div class='task__stats'>
 <span><time datetime="2021-11-24T20:00:00"><i class="fas fa-flag"></i>Nov 24</time></span>
@@ -134,7 +134,7 @@
 </div>
 </div>
 <div class='task' draggable='true'>
-<div class='task__tags'><span class='task__tag task__tag--illustration'>Illustration</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
+<div class='task__tags'><span class='task__tag task__tag--illustration'>Classwork</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
 <p>Move that one image 5px down to make Phil Happy.</p>
 <div class='task__stats'>
 <span><time datetime="2021-11-24T20:00:00"><i class="fas fa-flag"></i>Nov 24</time></span>
