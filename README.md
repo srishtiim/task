@@ -3,6 +3,7 @@
 <html>
 <head>
    <link rel="stylesheet" href="task.css" >
+   <script src="task.js"></script>
 </head>
   
 
