@@ -10,7 +10,7 @@
 <div class='app'>
 <main class='project'>
 <div class='project-info'>
-<h1>Homepage Design</h1>
+<h1>Task Manager</h1>
 <div class='project-participants'>
 <span></span>
 <span></span>
