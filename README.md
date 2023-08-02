@@ -33,8 +33,7 @@
 <div class='task__stats'>
 
 
-<span><i class="fas fa-comment"></i>1</span>
-<span><i class="fas fa-paperclip"></i>5</span>
+
 <span class='task__owner'></span>
 </div>
 </div>
