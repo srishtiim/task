@@ -31,7 +31,8 @@
 <div class='task__tags'><span class='task__tag task__tag--copyright'>CS projects</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
 <p>2 HTML pages- About Me and Sustainability</p>
 <div class='task__stats'>
-<span><time datetime="2021-11-24T20:00:00"><i class="fas fa-flag"></i>Nov 24</time></span>
+
+
 <span><i class="fas fa-comment"></i>3</span>
 <span><i class="fas fa-paperclip"></i>7</span>
 <span class='task__owner'></span>
