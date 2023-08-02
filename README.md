@@ -34,7 +34,6 @@
 
 
 
-<span class='task__owner'></span>
 </div>
 </div>
 
