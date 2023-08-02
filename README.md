@@ -39,7 +39,7 @@
 </div>
 </div>
 
-<div class='task' draggable='true'>
+<div class='task' draggable='false'>
 <div class='task__tags'><span class='task__tag task__tag--design'>Class Work</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
 <p>Icon di section our services</p>
 <div class='task__stats'>
