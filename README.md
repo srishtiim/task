@@ -50,8 +50,8 @@
 </div>
 
 <div class='task' draggable='true'>
-<div class='task__tags'><span class='task__tag task__tag--copyright'>Copywriting</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
-<p>Konsep hero title yang menarik</p>
+<div class='task__tags'><span class='task__tag task__tag--copyright'>CS Projects</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
+<p>task manager page</p>
 <div class='task__stats'>
 <span><time datetime="2021-11-24T20:00:00"><i class="fas fa-flag"></i>Nov 24</time></span>
 <span><i class="fas fa-comment"></i>2</span>
