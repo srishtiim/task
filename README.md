@@ -27,7 +27,7 @@
 <div class='project-column-heading'>
 <h2 class='project-column-heading__title'>Task Ready</h2><button class='project-column-heading__options'><i class="fas fa-ellipsis-h"></i></button>
 </div>
-<div class='task' draggable='true'>
+<div class='task' draggable='false'>
 <div class='task__tags'><span class='task__tag task__tag--copyright'>CS projects</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
 <p>2 HTML pages- About Me and Sustainability</p>
 <div class='task__stats'>
