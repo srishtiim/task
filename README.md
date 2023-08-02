@@ -28,8 +28,8 @@
 <h2 class='project-column-heading__title'>Task Ready</h2><button class='project-column-heading__options'><i class="fas fa-ellipsis-h"></i></button>
 </div>
 <div class='task' draggable='true'>
-<div class='task__tags'><span class='task__tag task__tag--copyright'>Copywriting</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
-<p>Konsep hero title yang menarik</p>
+<div class='task__tags'><span class='task__tag task__tag--copyright'>Reading Books</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
+<p>Gone Girl by Gillian Flynn</p>
 <div class='task__stats'>
 <span><time datetime="2021-11-24T20:00:00"><i class="fas fa-flag"></i>Nov 24</time></span>
 <span><i class="fas fa-comment"></i>3</span>
