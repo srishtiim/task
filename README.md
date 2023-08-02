@@ -53,6 +53,7 @@
 <div class='task__tags'><span class='task__tag task__tag--copyright'>CS Projects</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
 <p>task manager page</p>
 <div class='task__stats'>
+<i class='fas fa-bed' style='font-size:24px'></i>
 
 
 <span><i class="fas fa-comment"></i>2</span>
