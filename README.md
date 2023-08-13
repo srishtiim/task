@@ -171,6 +171,12 @@
 <div class='task__stats'>
 </div>
 
+<div class='task' draggable='true'>
+<div class='task__tags'><span class='task__tag task__tag--copyright'>CS Projects</span><button class='task__options'><i class="fas fa-ellipsis-h"></i></button></div>
+<p>task manager page</p>
+<div class='task__stats'>
+
+   
 </div>
 </main>
 <aside class='task-details'>
