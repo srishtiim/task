@@ -7,7 +7,7 @@
 </head>
 <body style="background-color:#bdcebe;">
     <header>
-       <div style="text-align: center;">
+       <div>
             <nav>
                 <ul>
                     <li><a href="#">ABOUT ME</a></li>
