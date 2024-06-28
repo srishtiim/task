@@ -5,7 +5,7 @@
 <title>Srishti Mukherjee</title>
 
 </head>
-<body>
+<body style="background-color:#bdcebe;">
     <header>
         </div>
             <nav>
