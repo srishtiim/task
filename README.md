@@ -1,7 +1,7 @@
 <html>
 <head>
-    <title>Srishti Mukherjee</title>
     <link rel="stylesheet" href="task.css">
+    <title>Srishti Mukherjee</title>
 </head>
 <body>
     <header>
