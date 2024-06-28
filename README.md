@@ -50,14 +50,13 @@
                     <h1>Hello,
                         <span>Neighbor</span>
                     </h1>
-                    <h2>!</h2>
                 </div>
             </section>
         </div>
     </main>
     <footer>
         <div class="container">
-            <p>&copy; 2023 Maya Nelson. All rights reserved.</p>
+            <p>&copy;All rights reserved.</p>
         </div>
     </footer>
 </body>
