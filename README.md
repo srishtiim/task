@@ -1,43 +1,76 @@
+
 <html>
 <head>
-   <link rel="stylesheet" href="task.css" >
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maya Nelson</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-  
-
- <body>
-
-<div class="month">
-  <ul>
-    <li class="prev">&#10094;</li>
-    <li class="next">&#10095;</li>
-    <li>August<br><span style="font-size:18px">2021</span></li>
-  </ul>
-</div>
-
-<ul class="weekdays">
-  <li>Mo</li>
-  <li>Tu</li>
-  <li>We</li>
-  <li>Th</li>
-  <li>Fr</li>
-  <li>Sa</li>
-  <li>Su</li>
-</ul>
-
-<ul class="days">
-  <li>1</li>
-  <li>2</li>
-  <li>3</li>
-  <li>4</li>
-  <li>5</li>
-  <li>6</li>
-  <li>7</li>
-  <li>8</li>
-  <li>9</li>
-  <li><span class="active">10</span></li>
-  <li>11</li>
-  ...etc
-</ul>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <a href="#">
+                    <div class="square"></div> Maya Nelson
+                </a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#">ABOUT ME</a></li>
+                    <li><a href="#">RESUME</a></li>
+                    <li><a href="#">PROJECTS</a></li>
+                    <li><a href="#">CONTACT</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <section class="hero">
+                <div class="hero-left">
+                    <div class="hero-image">
+                        <img src="https://via.placeholder.com/200x200" alt="Maya Nelson">
+                    </div>
+                    <div class="hero-content">
+                        <h3>Welcome to
+                            <span>My Site</span>
+                        </h3>
+                        <p>YOUR LOCAL BUSINESS PARTNER</p>
+                        <div class="social">
+                            <a href="#">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-linkedin-in"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-right">
+                    <h1>Hello,
+                        <span>Neighbor</span>
+                    </h1>
+                    <h2>!</h2>
+                    <p>Get to Know Us & Our Services</p>
+                    <div class="buttons">
+                        <button>ABOUT US</button>
+                        <button>OUR SERVICES</button>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 Maya Nelson. All rights reserved.</p>
+        </div>
+    </footer>
 </body>
 </html>
 
