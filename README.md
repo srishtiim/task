@@ -37,7 +37,7 @@
                             <a href="#">
                                 <i class="fab fa-twitter"></i>
                             </a>
-                            <a href="#">
+                            <a href="https://www.linkedin.com/in/srishti-mukherjee/">
                                 <i class="fab fa-linkedin-in"></i>
                             </a>
                             <a href="#">
