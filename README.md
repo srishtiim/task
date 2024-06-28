@@ -12,7 +12,7 @@
                 <ul>
                     <li><a href="#">ABOUT ME</a></li>
                     <li><a href="#">RESUME</a></li>
-                    <li><a href="#">PROJECTS</a>https://srishtiim.github.io/sustainability/</li>
+                    <li><a href="https://srishtiim.github.io/sustainability/">PROJECTS</a></li>
                     <li><a href="#">CONTACT</a></li>
                 </ul>
             </nav>
