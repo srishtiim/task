@@ -4,31 +4,9 @@ body {
     padding: 0;
 }
 
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-/* Header styles */
 header {
     background-color: #f2f2f2;
     padding: 20px 0;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.logo {
-    display: flex;
-    align-items: center;
-}
-
-.square {
-    width: 20px;
-    height: 20px;
-    background-color: #007bff;
-    margin-right: 10px;
 }
 
 nav ul {
@@ -36,10 +14,11 @@ nav ul {
     padding: 0;
     margin: 0;
     display: flex;
+    justify-content: space-between;
 }
 
 nav li {
-    margin-left: 20px;
+    margin-right: 20px;
 }
 
 nav a {
@@ -47,51 +26,33 @@ nav a {
     color: #333;
 }
 
-/* Hero styles */
 .hero {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.hero-left {
-    width: 40%;
     text-align: center;
+    padding: 40px 0;
 }
 
-.hero-image {
-    margin-bottom: 20px;
-}
-
-.hero-content h3 {
+.hero h1 {
+    font-size: 2rem;
     margin-bottom: 10px;
 }
 
-.hero-content span {
+.hero h1 span {
     font-weight: bold;
 }
 
-.hero-right {
-    width: 60%;
-}
-
-.hero-right h1 {
-    font-size: 4rem;
-    margin-bottom: 10px;
-}
-
-.hero-right h1 span {
-    font-weight: bold;
-}
-
-.hero-right h2 {
-    font-size: 3rem;
+.hero h2 {
+    font-size: 1.5rem;
     margin-bottom: 20px;
+}
+
+.hero h2 span {
+    font-weight: bold;
 }
 
 .buttons {
     display: flex;
     gap: 20px;
+    justify-content: center;
 }
 
 button {
@@ -101,23 +62,4 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-}
-
-/* Social media styles */
-.social {
-    margin-top: 20px;
-    display: flex;
-    gap: 10px;
-}
-
-.social a {
-    color: #333;
-    text-decoration: none;
-}
-
-/* Footer styles */
-footer {
-    background-color: #f2f2f2;
-    padding: 20px 0;
-    text-align: center;
 }
