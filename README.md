@@ -47,8 +47,8 @@
                     </div>
                 </div>
                 <div class="hero-right">
-                    <h1>Hello,
-                        <span>Neighbor</span>
+                    <h1>Welcome to my
+                        <span>portfolio</span>
                     </h1>
                 </div>
             </section>
