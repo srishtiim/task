@@ -25,7 +25,9 @@
                     </div>
                     <div class="hero-content">
                         <h3>Welcome to
-                            <span>My Site</span>
+                            <p><font size="4">Hi, My name is Srishti Mukherjee.<br>
+ I just graduated from class 12th from  <a href="https://ais.amity.edu/gurugram46/" target="_blank">Amity International School.</a><br> I'm currently pursuing Computer Science (Data Science) from Manipal University Jaipur.
+ </font></p> 
                         </h3>
                         <p>YOUR LOCAL BUSINESS PARTNER</p>
                         <div class="social">
