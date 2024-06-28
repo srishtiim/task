@@ -23,7 +23,7 @@
             <section class="hero">
                 <div class="hero-left">
                     <div class="hero-image">
-                        <img src="https://via.placeholder.com/200x200" alt="Maya Nelson">
+                        <img src="https://srishtiim.github.io/profile/lol.jpg" width="300" height="240">
                     </div>
                     <div class="hero-content">
                         <h3>Welcome to
