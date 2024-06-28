@@ -16,16 +16,56 @@
         </nav>
     </header>
     <main>
-        <section class="hero">
-            <h1>Welcome to <span>My Site</span></h1>
-            <p>YOUR LOCAL BUSINESS PARTNER</p>
-            <h2>Hello, <span>Neighbor</span>!</h2>
-            <p>Get to Know Us & Our Services</p>
-            <div class="buttons">
-                <button>ABOUT US</button>
-                <button>OUR SERVICES</button>
-            </div>
-        </section>
+
+ <div class="container">
+            <section class="hero">
+                <div class="hero-left">
+                    <div class="hero-image">
+                        <img src="https://via.placeholder.com/200x200" alt="Maya Nelson">
+                    </div>
+                    <div class="hero-content">
+                        <h3>Welcome to
+                            <span>My Site</span>
+                        </h3>
+                        <p>YOUR LOCAL BUSINESS PARTNER</p>
+                        <div class="social">
+                            <a href="#">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-linkedin-in"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-right">
+                    <h1>Hello,
+                        <span>Neighbor</span>
+                    </h1>
+                    <h2>!</h2>
+                    <p>Get to Know Us & Our Services</p>
+                    <div class="buttons">
+                        <button>ABOUT US</button>
+                        <button>OUR SERVICES</button>
+                    </div>
+                </div>
+            </section>
+        </div>
     </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 Maya Nelson. All rights reserved.</p>
+        </div>
+    </footer>
 </body>
 </html>
+
+
+        
+       
