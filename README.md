@@ -1,65 +1,31 @@
-
 <html>
 <head>
+    <title>Srishti Mukherjee</title>
     <link rel="stylesheet" href="task.css">
-<title>Srishti Mukherjee</title>
-
 </head>
-<body style="background-color:#bdcebe;">
+<body>
     <header>
-       <div>
-            <nav>
-                <ul>
-                    <li><a href="#">ABOUT ME</a></li>
-                    <li><a href="#">RESUME</a></li>
-                    <li><a href="https://srishtiim.github.io/sustainability/">PROJECTS</a></li>
-                    <li><a href="#">CONTACT</a></li>
-                </ul>
-            </nav>
-        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Srishti Mukherjee / PROJECT MANAGER</a></li>
+                <li><a href="#">ABOUT ME</a></li>
+                <li><a href="#">RESUME</a></li>
+                <li><a href="#">PROJECTS</a></li>
+                <li><a href="#">CONTACT</a></li>
+            </ul>
+        </nav>
     </header>
     <main>
-        <div class="container">
-            <section class="hero">
-                <div class="hero-left">
-                    <div class="hero-image">
-                        <img src="https://srishtiim.github.io/profile/lol.jpg" width="300" height="240">
-                    </div>
-                    <div class="hero-content">
-                        <h3>Welcome to
-                            <span>My Site</span>
-                        </h3>
-                        <p>YOUR LOCAL BUSINESS PARTNER</p>
-                        <div class="social">
-                            <a href="#">
-                                <i class="fab fa-facebook-f"></i>
-                            </a>
-                            <a href="#">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                            <a href="https://www.linkedin.com/in/srishti-mukherjee/">
-                                <i class="fab fa-linkedin-in"></i>
-                            </a>
-                            <a href="#">
-                                <i class="fab fa-instagram"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="hero-right">
-                    <h1>Welcome to my
-                        <span>portfolio</span>
-                    </h1>
-                </div>
-            </section>
-        </div>
+        <section class="hero">
+            <h1>Welcome to <span>My Site</span></h1>
+            <p>YOUR LOCAL BUSINESS PARTNER</p>
+            <h2>Hello, <span>Neighbor</span>!</h2>
+            <p>Get to Know Us & Our Services</p>
+            <div class="buttons">
+                <button>ABOUT US</button>
+                <button>OUR SERVICES</button>
+            </div>
+        </section>
     </main>
-    <footer>
-        <div class="container">
-            <p>&copy;All rights reserved.</p>
-        </div>
-    </footer>
 </body>
 </html>
-
-
