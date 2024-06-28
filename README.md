@@ -2,7 +2,7 @@
 <html>
 <head>
     <link rel="stylesheet" href="task.css">
-<title>Maya Nelson</title>
+<title>Srishti Mukherjee</title>
 
 </head>
 <body>
