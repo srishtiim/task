@@ -7,12 +7,7 @@
 </head>
 <body>
     <header>
-        <div class="container">
-            <div class="logo">
-                <a href="#">
-                    <div class="square"></div> Maya Nelson
-                </a>
-            </div>
+        </div>
             <nav>
                 <ul>
                     <li><a href="#">ABOUT ME</a></li>
