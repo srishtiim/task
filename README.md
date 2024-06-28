@@ -51,11 +51,6 @@
                         <span>Neighbor</span>
                     </h1>
                     <h2>!</h2>
-                    <p>Get to Know Us & Our Services</p>
-                    <div class="buttons">
-                        <button>ABOUT US</button>
-                        <button>OUR SERVICES</button>
-                    </div>
                 </div>
             </section>
         </div>
