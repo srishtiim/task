@@ -3,7 +3,7 @@
     <link rel="stylesheet" href="task.css">
     <title>Srishti Mukherjee</title>
 </head>
-<body>
+<body style="background-color:#bdcebe;">
     <header>
         <nav>
             <ul>
