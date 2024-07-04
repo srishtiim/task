@@ -1,33 +1,53 @@
 <html>
 <head>
-    <title>Srishti Mukherjee - Portfolio</title>
-    <link rel="stylesheet" href="task.css">
-</head>
-<body  style="background-color: #6C3483;">
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#about" style="display: inline-block">About Me</a></li>
-                <li><a href="#resume" style="display: inline-block">Resume</a></li>
-                <li><a href="#contact" style="display: inline-block">Projects</a></li>
-                 <li><a href="#contact" style="display: inline-block">Other</a></li>
-            </ul>
-        </nav>
-    </header>
-    <main>
-        <section id="about">
-            <h1>Welcome to my Portfolio</h1>
-            <p>Hi, My name is Srishti Mukherjee.</p>
-            <p>I just graduated from class 12th from Amity International School.</p>
-            <p>I'm currently pursuing Computer Science (Data Science) from Manipal University Jaipur</p>
-        </section>
-    </main>
-    <footer>
-        <ul>
-            <li><a href="https://www.linkedin.com/" target="_blank">Linkedin</a></li>
-            <li><a href="https://www.instagram.com/" target="_blank">GitHub</a></li>
-            <li><a href="https://www.facebook.com/" target="_blank">Email</a></li>
-        </ul>
-    </footer>
-</body>
+<meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--=============== FAVICON ===============-->
+        <link rel="shortcut icon" href="" type="image/x-icon">
+        <!--=============== SWIPER CSS ===============-->
+        <link rel="stylesheet" href="">
+<!--=============== CSS ===============-->
+        <link rel="stylesheet" href="task.css">
+ <title> Responsive portfolio website Ansel </title>
+    </head>
+    <body>
+        <!--=============== HEADER ===============-->
+        <header class="header" id="header">
+            </header>
+<!--=============== MAIN ===============-->
+        <main class="main">
+            <!--=============== HOME ===============-->
+            <section class="home section" id="home">
+                </section>
+            <!--=============== ABOUT ===============-->
+            <section class="about section" id="about">
+                </section>
+ <!--=============== SKILLS ===============-->
+            <section class="skills section" id="skills">
+                 </section>
+<!--=============== SERVICES ===============-->
+            <section class="services section">
+                </section>
+<!--=============== WORK ===============-->
+            <section class="work section" id="work">
+                </section>
+ <!--=============== TESTIMONIALS ===============-->
+            <section class="testimonial section">
+                 </section>
+ <!--=============== CONTACT ===============-->
+            <section class="contact section" id="contact">
+                </section>
+        </main>
+<!--=============== FOOTER ===============-->
+        <footer class="footer">
+             </footer>
+  <!--=============== SCROLLREVEAL ===============-->
+        <script src=""></script>
+ <!--=============== SWIPER JS ===============-->
+        <script src=""></script>
+  <!--=============== MIXITUP FILTER ===============-->
+        <script src=""></script>
+<!--=============== MAIN JS ===============-->
+        <script src=""></script>
+    </body>
 </html>
