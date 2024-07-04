@@ -62,8 +62,9 @@ footer {
     background-color: #f0f0f0;
     padding: 10px;
     text-align: center;
-    clear: both;
-    bottom: 0px;
+   position:absolute;
+   bottom:0;
+   width:100%;
 }
 
 footer ul {
