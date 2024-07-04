@@ -18,12 +18,14 @@
         <main class="main">
             <!--=============== HOME ===============-->
             <section class="home section" id="home">
+                    <p>Hi, Im srishti </p>
                 </section>
             <!--=============== ABOUT ===============-->
             <section class="about section" id="about">
                 </section>
  <!--=============== SKILLS ===============-->
             <section class="skills section" id="skills">
+                    <h1>This is My portfolio</h1>
                  </section>
 <!--=============== SERVICES ===============-->
             <section class="services section">
