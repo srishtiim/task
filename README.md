@@ -5,7 +5,7 @@
 <!--=============== FAVICON ===============-->
         <link rel="shortcut icon" href="" type="image/x-icon">
         <!--=============== SWIPER CSS ===============-->
-        <link rel="stylesheet" href="">
+        <link rel="stylesheet" href="task.css">
 <!--=============== CSS ===============-->
         <link rel="stylesheet" href="task.css">
  <title> Responsive portfolio website Ansel </title>
@@ -13,6 +13,8 @@
     <body>
         <!--=============== HEADER ===============-->
         <header class="header" id="header">
+                <h1>about me</h1>
+                <h2>resume</h2>
             </header>
 <!--=============== MAIN ===============-->
         <main class="main">
