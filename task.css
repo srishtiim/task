@@ -63,6 +63,7 @@ footer {
     padding: 10px;
     text-align: center;
     clear: both;
+    bottom: 0px;
 }
 
 footer ul {
