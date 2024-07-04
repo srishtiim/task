@@ -8,9 +8,9 @@
         <nav>
             <ul>
                 <li><a href="#about" style="display: inline-block">About Me</a></li>
-                <li><a href="#resume"style="display: inline-block">Resume</a></li>
-                <li><a href="#contact"style="display: inline-block">Projects</a></li>
-                 <li><a href="#contact"style="display: inline-block">Other</a></li>
+                <li><a href="#resume" style="display: inline-block">Resume</a></li>
+                <li><a href="#contact" style="display: inline-block">Projects</a></li>
+                 <li><a href="#contact" style="display: inline-block">Other</a></li>
             </ul>
         </nav>
     </header>
