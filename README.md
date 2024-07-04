@@ -1,7 +1,7 @@
 <html>
 <head>
     <title>Srishti Mukherjee - Portfolio</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="task.css">
 </head>
 <body>
     <header>
