@@ -20,15 +20,6 @@
             <p>I just graduated from class 12th from Amity International School.</p>
             <p>I'm currently pursuing Computer Science (Data Science) from Manipal University Jaipur</p>
         </section>
-        <section id="resume">
-            <!-- Add your resume content here -->
-            <h2>Resume</h2>
-            <p>Coming soon...</p>
-        </section>
-        <section id="contact">
-            <!-- Add your contact information here -->
-            <h2>Contact</h2>
-            <p>Coming soon...</p>
         </section>
     </main>
     <footer>
