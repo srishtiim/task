@@ -43,7 +43,10 @@ section {
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    left: -10px;
+    position: fixed;
+     top: 200px;
+     left: 100px;
+ 
 }
 
 h1, h2 {
