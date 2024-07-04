@@ -7,9 +7,10 @@
     <header>
         <nav>
             <ul>
-                <li><a href="#about">About</a></li>
+                <li><a href="#about">About Me</a></li>
                 <li><a href="#resume">Resume</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#contact">Projects</a></li>
+                 <li><a href="#contact">Other</a></li>
             </ul>
         </nav>
     </header>
@@ -24,8 +25,8 @@
     <footer>
         <ul>
             <li><a href="https://www.linkedin.com/" target="_blank">Linkedin</a></li>
-            <li><a href="https://www.instagram.com/" target="_blank">Instagram</a></li>
-            <li><a href="https://www.facebook.com/" target="_blank">Facebook</a></li>
+            <li><a href="https://www.instagram.com/" target="_blank">GitHub</a></li>
+            <li><a href="https://www.facebook.com/" target="_blank">Email</a></li>
         </ul>
     </footer>
 </body>
