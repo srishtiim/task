@@ -20,7 +20,6 @@
             <p>I just graduated from class 12th from Amity International School.</p>
             <p>I'm currently pursuing Computer Science (Data Science) from Manipal University Jaipur</p>
         </section>
-        </section>
     </main>
     <footer>
         <ul>
