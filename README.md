@@ -3,7 +3,7 @@
     <title>Srishti Mukherjee - Portfolio</title>
     <link rel="stylesheet" href="task.css">
 </head>
-<body>
+<body  style="background-color: #6C3483;">
     <header>
         <nav>
             <ul>
