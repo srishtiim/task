@@ -64,7 +64,8 @@ footer {
     text-align: center;
     clear: both;
     position: absolute;
-     bottom: 10px;
+    bottom: 0px;
+    width: 100%;
 }
 
 footer ul {
