@@ -18,6 +18,11 @@
             </nav>
         </div>
     </header>
+ <main>
+        <div class="photo-box">
+            <img src="photo.jpg" alt="My Photo">
+        </div>
+        
  <section id="about">
         <div class="container">
             <h2>Welcome to my portfolio
@@ -34,6 +39,7 @@ I'm currently pursuing Computer Science (Data Science) from Manipal University J
             <!-- Showcase your work here with images, descriptions, links, etc. -->
         </div>
     </section>
+    </main>
 
 
   <footer>
