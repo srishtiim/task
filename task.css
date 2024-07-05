@@ -101,6 +101,25 @@ header nav ul li a:hover {
     text-decoration: underline;
 }
 
+.photo-box {
+    position: absolute;
+    top: 80px; /* Adjust based on header height */
+    right: 20px; /* Adjust as needed */
+    width: 200px; /* Adjust as needed */
+    height: 200px; /* Adjust as needed */
+    border: 2px solid #333;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.photo-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
 section {
     padding: 40px 0;
 }
