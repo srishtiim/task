@@ -32,6 +32,15 @@
         </div>
     </section>
 
+
+<div class="circle-container">
+        <!-- Circle for the photo -->
+        <div class="circle">
+            <!-- Place your photo or image here -->
+            <img src="path/to/your/photo.jpg" alt="Your Photo">
+        </div>
+    </div>
+
   <footer>
         <div class="container">
             <ul>
@@ -42,6 +51,9 @@
         </div>
     </footer>
  <script src="scripts.js"></script>
+
+
+ 
 </body>
 </html>
 
