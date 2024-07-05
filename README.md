@@ -8,7 +8,7 @@
 <body>
     <header>
         <div class="container">
-            <h1>Your Name</h1>
+            <h1>Srishti Mukherjee</h1>
             <nav>
                 <ul>
                     <li><a href="#about">About Me</a></li>
@@ -20,8 +20,11 @@
     </header>
  <section id="about">
         <div class="container">
-            <h2>About Me</h2>
-            <p>Write a brief introduction about yourself and your skills.</p>
+            <h2>Welcome to my portfolio
+            </h2>
+            <p>Hi, My name is Srishti Mukherjee.
+I just graduated from class 12th from Amity International School.
+I'm currently pursuing Computer Science (Data Science) from Manipal University Jaipur.</p>
         </div>
     </section>
 
