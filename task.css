@@ -121,3 +121,25 @@ footer ul li {
     display: inline-block;
     margin-right: 10px;
 }
+
+.circle-container {
+    position: fixed; /* Fixed positioning to keep it in place */
+    top: 50%; /* Adjust to position vertically */
+    right: 20px; /* Adjust to position horizontally */
+    transform: translateY(-50%); /* Center vertically */
+}
+
+/* Circular shape */
+.circle {
+    width: 100px; /* Adjust size as needed */
+    height: 100px; /* Adjust size as needed */
+    border-radius: 50%; /* Makes the element circular */
+    overflow: hidden; /* Ensures content within the circle is clipped properly */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow effect */
+}
+
+.circle img {
+    width: 100%; /* Ensures the image fills the circle */
+    height: auto;
+    display: block;
+}
