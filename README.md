@@ -1,57 +1,48 @@
-<html>
+<html lang="en">
 <head>
-<meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--=============== FAVICON ===============-->
-        <link rel="shortcut icon" href="" type="image/x-icon">
-        <!--=============== SWIPER CSS ===============-->
-        <link rel="stylesheet" href="task.css">
-<!--=============== CSS ===============-->
-        <link rel="stylesheet" href="task.css">
- <title> Responsive portfolio website Ansel </title>
-    </head>
-    <body>
-        <!--=============== HEADER ===============-->
-        <header class="header" id="header">
-                <h1>about me</h1>
-                <h2>resume</h2>
-            </header>
-<!--=============== MAIN ===============-->
-        <main class="main">
-            <!--=============== HOME ===============-->
-            <section class="home section" id="home">
-                    <p>Hi, Im srishti </p>
-                </section>
-            <!--=============== ABOUT ===============-->
-            <section class="about section" id="about">
-                </section>
- <!--=============== SKILLS ===============-->
-            <section class="skills section" id="skills">
-                    <h1>This is My portfolio</h1>
-                 </section>
-<!--=============== SERVICES ===============-->
-            <section class="services section">
-                </section>
-<!--=============== WORK ===============-->
-            <section class="work section" id="work">
-                </section>
- <!--=============== TESTIMONIALS ===============-->
-            <section class="testimonial section">
-                 </section>
- <!--=============== CONTACT ===============-->
-            <section class="contact section" id="contact">
-                </section>
-        </main>
-<!--=============== FOOTER ===============-->
-        <footer class="footer">
-             </footer>
-  <!--=============== SCROLLREVEAL ===============-->
-        <script src=""></script>
- <!--=============== SWIPER JS ===============-->
-        <script src=""></script>
-  <!--=============== MIXITUP FILTER ===============-->
-        <script src=""></script>
-<!--=============== MAIN JS ===============-->
-        <script src=""></script>
-    </body>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Your Name</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+ <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Write a brief introduction about yourself and your skills.</p>
+        </div>
+    </section>
+
+ <section id="portfolio">
+        <div class="container">
+            <h2>Portfolio</h2>
+            <!-- Showcase your work here with images, descriptions, links, etc. -->
+        </div>
+    </section>
+
+  <footer>
+        <div class="container">
+            <ul>
+                <li>Email: yourname@example.com</li>
+                <li>Phone: +1234567890</li>
+                <li>Social Media: <!-- Links to your social media profiles --></li>
+            </ul>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
 </html>
+
