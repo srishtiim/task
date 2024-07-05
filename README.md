@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Name - Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="task.css">
 </head>
 <body>
     <header>
@@ -41,8 +41,7 @@
             </ul>
         </div>
     </footer>
-
-    <script src="scripts.js"></script>
+ <script src="scripts.js"></script>
 </body>
 </html>
 
