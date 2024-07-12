@@ -103,8 +103,8 @@ header nav ul li a:hover {
 
 .photo-box {
     position: absolute;
-    top: 80px; /* Adjust based on header height */
-    right: 20px; /* Adjust as needed */
+    top: 180px; /* Adjust based on header height */
+    right: 50px; /* Adjust as needed */
     width: 200px; /* Adjust as needed */
     height: 200px; /* Adjust as needed */
     border: 2px solid #333;
